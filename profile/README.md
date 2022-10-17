@@ -1,5 +1,5 @@
 # 🐰 Happyfolio
 
-😄 A happy app and web development company.
+🏗 We build cool and interesting apps for web and mobile.
 
-We do 🎨 _design_ and 🏗 _development_ of web and mobile apps.
+📨 Feel free to contact us via contact@happyfolio.nl.
